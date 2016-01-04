@@ -1,5 +1,9 @@
 #Suave 1.0 + Angular 2.0-beta demo project
 
+## Dependendies
+
+You probably need `F# 4.0` and fresh `NodeJS` installed and properly configured.
+
 ## How to run
 
 Execute `run.cmd` script that:
